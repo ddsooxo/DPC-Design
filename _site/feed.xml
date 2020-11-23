@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dechen Chuteng Designs | @by.dpc</title>
+    <description>Dechen Chuteng's Design Portfolio</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 23 Nov 2020 02:21:19 -0800</pubDate>
+    <lastBuildDate>Mon, 23 Nov 2020 02:21:19 -0800</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Created an infographic for Sacramento State's ECS Department</title>
+        <description>&lt;p&gt;&lt;em&gt;August 2019&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I assisted Sac State’s ECS Department in creating an inforgraphic to inform students about Fall 2020 changes.&lt;/p&gt;
+
+&lt;p&gt;Here is the &lt;a href=&quot;https://www.ecs.csus.edu/news/articles/ecs-resources-announcement.html&quot;&gt;link&lt;/a&gt; to the website which shows the infographic.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 22 Nov 2020 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/ecs-infographic/</link>
+        <guid isPermaLink="true">http://localhost:4000/ecs-infographic/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Logo design for a non-profit organization</title>
+        <description>&lt;p&gt;&lt;em&gt;October 2019&lt;/em&gt;
+I helped create a logo for a non-profit organization based in San Francisco Bay Area. The organization is called Nyamdudro Mentorship program.&lt;/p&gt;
+
+&lt;p&gt;Here is a snippet about who they are:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In Tibetan, “nyamdu dro” translates to “go together,” a literal representation of our belief in the power of community and collaboration. We are a platform for Tibetan youth in the Bay Area to create meaningful professional relationships.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;To create this logo, I first sketched out the drawing with pen and paper. I then scanned the picture of the drawing and uploaded it on Adobe Illustrator. I played around with bright colors to make it fun and interactive. The logo includes two Tibetan youths holding hands together. The background includes mountains which represents the Himalaya mountains. There is also a Tibetan prayer flag.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Nov 2020 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/nyamdudro-project/</link>
+        <guid isPermaLink="true">http://localhost:4000/nyamdudro-project/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Bliss - Side Project</title>
+        <description>&lt;p&gt;&lt;em&gt;May 2016&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This was a project I did durig my last year of high school. I took a course in Graphic Design and I wanted to play around with a pastel color palette and typography.&lt;/p&gt;
+
+&lt;p&gt;I made this fun text graphic along with a repitition pattern of t-shirts.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Nov 2020 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/high-school-project/</link>
+        <guid isPermaLink="true">http://localhost:4000/high-school-project/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
