@@ -1,5 +1,5 @@
-# Memoirs Jekyll Theme
-
-[Live Demo](https://wowthemesnet.github.io/jekyll-theme-memoirs/) | [Docs & Download](https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
-
-![memoirs](https://bootstrapstarter.com/assets/img/themes/memoirs-jekyll.jpg)
+# DPC-Design
+Design Portfolio Website	## Design Portfolio Website
+- this website contains a collection of all of my past graphic design work
+# Template
+- template is called [Memoirs - Jekyll Bootstrap Theme](https://www.google.com/search?q=free+jekyll+portfolio+themes&rlz=1C5CHFA_enUS581US581&oq=&aqs=chrome.0.35i39i362l8...8.435932j0j7&sourceid=chrome&ie=UTF-8)
