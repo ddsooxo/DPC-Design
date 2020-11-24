@@ -18,7 +18,7 @@ var documents = [{
     "id": 3,
     "url": "http://localhost:4000/contact",
     "title": "Contact",
-    "body": "  Please send your message to Dechen Chuteng Design. We will reply as soon as possible!   "
+    "body": "  Please send your message to Dechen Chuteng Designs | @by. dpc.   "
     }, {
     "id": 4,
     "url": "http://localhost:4000/",
@@ -33,17 +33,17 @@ var documents = [{
     "id": 6,
     "url": "http://localhost:4000/ecs-infographic/",
     "title": "Created an infographic for Sacramento State's ECS Department",
-    "body": "2020/11/22 - August 2019 I assisted Sac State’s ECS Department in creating an inforgraphic to inform students about Fall 2020 changes. Here is the link to the website which shows the infographic. "
+    "body": "2020/11/22 - August 2019 I assisted Sac State’s ECS Department in creating an infographic to inform students about Fall 2020 changes. Here is the link to the website which shows the infographic. "
     }, {
     "id": 7,
     "url": "http://localhost:4000/nyamdudro-project/",
     "title": "Logo design for a non-profit organization",
-    "body": "2020/11/20 - October 2019I helped create a logo for a non-profit organization based in San Francisco Bay Area. The organization is called Nyamdudro Mentorship program. Here is a snippet about who they are:  In Tibetan, “nyamdu dro” translates to “go together,” a literal representation of our belief in the power of community and collaboration. We are a platform for Tibetan youth in the Bay Area to create meaningful professional relationships. To create this logo, I first sketched out the drawing with pen and paper. I then scanned the picture of the drawing and uploaded it on Adobe Illustrator. I played around with bright colors to make it fun and interactive. The logo includes two Tibetan youths holding hands together. The background includes mountains which represents the Himalaya mountains. There is also a Tibetan prayer flag. "
+    "body": "2020/11/20 - October 2019I helped create a logo for a non-profit organization based in San Francisco Bay Area. The organization is called Nyamdudro Mentorship program. Here is a snippet about who they are:  In Tibetan, “nyamdu dro” translates to “go together,” a literal representation of our belief in the power of community and collaboration. We are a platform for Tibetan youth in the Bay Area to create meaningful professional relationships. To create this logo, I first sketched out the drawing with pen and paper. I then scanned the picture of the drawing and uploaded it on Adobe Illustrator.  I played around with bright colors to make it fun and interactive. The logo includes two Tibetan youths holding hands together. The background includes mountains which represents the Himalaya mountains. There is also a Tibetan prayer flag. "
     }, {
     "id": 8,
     "url": "http://localhost:4000/high-school-project/",
     "title": "Bliss - Side Project",
-    "body": "2020/11/19 - May 2016 This was a project I did durig my last year of high school. I took a course in Graphic Design and I wanted to play around with a pastel color palette and typography. I made this fun text graphic along with a repitition pattern of t-shirts. "
+    "body": "2020/11/19 - May 2016 This was a project I did during my last year of high school. I took a Graphic Design course and I wanted to explore around with a pastel color palette and typography. I made this fun text graphic along with a repitition pattern of t-shirts. "
     }];
 
 var idx = lunr(function () {

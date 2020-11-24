@@ -1,7 +1,7 @@
 # Site
-name: "Dechen Chuteng Design"
+name: "Dechen Chuteng Designs | @by.dpc"
 title: "Dechen Chuteng Designs | @by.dpc"
-description: "Dechen Chuteng's Design Portfolio"
+description: "Hi, welcome to my design porfolio! 🌱 ⚡️"
 logo: "assets/images/apple-touch-icon.png"
 favicon: "assets/images/apple-touch-icon.png"
 baseurl: ""
@@ -10,14 +10,14 @@ disqus: "demowebsite"
 mailchimp-list: "https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b"
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: dechxpal@gmail.com
 
 # Authors
 authors:
   dc:
     name: Dechen Chuteng
     display_name: Dechen
-    gravatar: https://dechenc.com/img/me.JPG
+    gravatar: d5798961deded2b3f3e66e181ad65085
     email: dechxpal@gmail.com
     web: https://www.dechenc.com
     twitter: https://twitter.com/ddsooxo
