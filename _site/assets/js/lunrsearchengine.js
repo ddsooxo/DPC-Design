@@ -23,7 +23,7 @@ var documents = [{
     "id": 4,
     "url": "http://localhost:4000/",
     "title": "Dechen Chuteng",
-    "body": "                                                                                               Created an infographic for Sacramento State's ECS Department              :       August 2019:                                                                               Dechen                 22 Nov 2020                                                                                                                           Logo design for a non-profit organization              :       October 2019I helped create a logo for a non-profit organization based in San Francisco Bay Area. The organization is called Nyamdudro Mentorship program. :                                                                               Dechen                 20 Nov 2020                                                                                                                           Bliss - Side Project              :       May 2016:                                                                               Dechen                 19 Nov 2020                                "
+    "body": "                                                                                               Created an infographic for Sacramento State's ECS Department              :       August 2020:                                                                               Dechen                 22 Nov 2020                                                                                                                           Logo design for a non-profit organization              :       October 2019I helped create a logo for a non-profit organization based in San Francisco Bay Area. The organization is called Nyamdudro Mentorship program. :                                                                               Dechen                 20 Nov 2020                                                                                                                           Bliss - Side Project              :       May 2016:                                                                               Dechen                 19 Nov 2020                                "
     }, {
     "id": 5,
     "url": "http://localhost:4000/robots.txt",
@@ -33,7 +33,7 @@ var documents = [{
     "id": 6,
     "url": "http://localhost:4000/ecs-infographic/",
     "title": "Created an infographic for Sacramento State's ECS Department",
-    "body": "2020/11/22 - August 2019 I assisted Sac State’s ECS Department in creating an infographic to inform students about Fall 2020 changes. Here is the link to the website which shows the infographic. "
+    "body": "2020/11/22 - August 2020 I assisted Sac State’s ECS Department in creating an infographic to inform students about Fall 2020 changes. Here is the link to the website which shows the infographic. "
     }, {
     "id": 7,
     "url": "http://localhost:4000/nyamdudro-project/",

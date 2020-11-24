@@ -6,7 +6,7 @@ author: dc
 image: assets/images/infographic.png
 ---
 
-_August 2020_
+_August 2020_ 
 
 I assisted Sac State's ECS Department in creating an infographic to inform students about Fall 2020 changes.
 
