@@ -1,0 +1,148 @@
+I"ê<!-- Posts Index
+================================================== -->
+<div class="blog-grid-container">
+    
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/ecs-infographic/">
+                
+
+                    
+                        <img class="img-thumb" src="/assets/images/infographic-cropped.png" alt="Created an infographic for Sacramento State's ECS Department" /> 
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/ecs-infographic/">Created an infographic for Sacramento State's ECS Department</a>
+                
+            </h2>
+            <h4 class="card-text">August 2020
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                
+                <img class="author-thumb" src="https://www.gravatar.com/avatar/d5798961deded2b3f3e66e181ad65085?s=250&amp;d=mm&amp;r=x" alt="Dechen" />
+                
+                </span>
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" href="https://www.dechenc.com">Dechen</a></span> 
+                
+                <span class="post-date">22 Nov 2020</span>
+                </span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+    
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/nyamdudro-project/">
+                
+
+                    
+                        <img class="img-thumb" src="https://res.cloudinary.com/dgcmikigj/image/upload/v1606119298/nd-logo.png" alt="Logo design for a non-profit organization" /> 
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/nyamdudro-project/">Logo design for a non-profit organization</a>
+                
+            </h2>
+            <h4 class="card-text">October 2019
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                
+                <img class="author-thumb" src="https://www.gravatar.com/avatar/d5798961deded2b3f3e66e181ad65085?s=250&amp;d=mm&amp;r=x" alt="Dechen" />
+                
+                </span>
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" href="https://www.dechenc.com">Dechen</a></span> 
+                
+                <span class="post-date">20 Nov 2020</span>
+                </span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+    
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/high-school-project/">
+                
+
+                    
+                        <img class="img-thumb" src="/assets/images/bliss.jpg" alt="Bliss - Side Project" /> 
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/high-school-project/">Bliss - Side Project</a>
+                
+            </h2>
+            <h4 class="card-text">May 2016
+Introduction
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                
+                <img class="author-thumb" src="https://www.gravatar.com/avatar/d5798961deded2b3f3e66e181ad65085?s=250&amp;d=mm&amp;r=x" alt="Dechen" />
+                
+                </span>
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" href="https://www.dechenc.com">Dechen</a></span> 
+                
+                <span class="post-date">19 Nov 2020</span>
+                </span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+    
+</div>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<span class="navigation" role="navigation">
+    
+</span>
+</div>
+
+:ET
